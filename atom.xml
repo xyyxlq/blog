@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kingluo&#39;s Blog</title>
+  
+  
+  <link href="https://kingluo.me/blog/atom.xml" rel="self"/>
+  
+  <link href="https://kingluo.me/blog/"/>
+  <updated>2020-12-21T02:41:06.402Z</updated>
+  <id>https://kingluo.me/blog/</id>
+  
+  <author>
+    <name>Kingluo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>寻秋粤北</title>
+    <link href="https://kingluo.me/blog/2020/12/20/seeking-autumn-in-northern-guangdong/"/>
+    <id>https://kingluo.me/blog/2020/12/20/seeking-autumn-in-northern-guangdong/</id>
+    <published>2020-12-20T02:20:32.000Z</published>
+    <updated>2020-12-21T02:41:06.402Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;游记中一片金黄的银杏，唤起了我们对秋天的向往，也许是因为深圳没有秋天吧，让这份向往来的更加强烈。&lt;/p&gt;
+&lt;p&gt;眼下秋末冬初，正是看银杏的好时节，于是乎，匆匆收拾好行囊，我们便踏上了这段寻(sao)秋(huang)之路。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="游记" scheme="https://kingluo.me/blog/tags/%E6%B8%B8%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有猫啦</title>
+    <link href="https://kingluo.me/blog/2019/02/16/oh-my-cat/"/>
+    <id>https://kingluo.me/blog/2019/02/16/oh-my-cat/</id>
+    <published>2019-02-16T14:20:46.000Z</published>
+    <updated>2021-05-07T14:37:13.042Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;有猫啦有猫啦。&lt;/p&gt;
+&lt;p&gt;作为一枚资深云吸猫人士，终于在在今天拥有了自己的猫咪。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://kingluo.me/blog/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="随笔" scheme="https://kingluo.me/blog/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>贵阳1040游记</title>
+    <link href="https://kingluo.me/blog/2018/04/11/against-pyramid-sales/"/>
+    <id>https://kingluo.me/blog/2018/04/11/against-pyramid-sales/</id>
+    <published>2018-04-11T14:20:46.000Z</published>
+    <updated>2021-01-26T10:22:54.334Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;一场关于人性的旅行。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://kingluo.me/blog/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="随笔" scheme="https://kingluo.me/blog/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入 JavaScript 之 this</title>
+    <link href="https://kingluo.me/blog/2017/10/11/deep-dive-into-javascript-this/"/>
+    <id>https://kingluo.me/blog/2017/10/11/deep-dive-into-javascript-this/</id>
+    <published>2017-10-11T13:19:38.000Z</published>
+    <updated>2021-05-22T17:56:06.042Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;“this关键字是JavaScript中最复杂的机制之一。它是一个很特别的关键字，被自动定义在所有函数的作用域中。但是即使是非常有经验的JavaScript开发者也很难说清它到底指向什么。”          &lt;/p&gt;
+&lt;p&gt;​                                      —— 《你不知道的 JavaScript （上）》&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+    <category term="技术" scheme="https://kingluo.me/blog/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再见，老查</title>
+    <link href="https://kingluo.me/blog/2017/07/21/RIP-for-chester/"/>
+    <id>https://kingluo.me/blog/2017/07/21/RIP-for-chester/</id>
+    <published>2017-07-21T13:20:32.000Z</published>
+    <updated>2020-05-14T13:47:35.194Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;早起打开微信，发现平时一向聊天很少的LP群忽然99+，心想，不会是是小伙伴们是在筹划719的2周年活动吧？想想还有点小激动。&lt;/p&gt;
+&lt;p&gt;点开却看到老查自杀的消息😳，一开始让我相信其实我是拒绝的，没理由啊，老查为什么要自杀？这些年网络上的各种谣言和假新闻太多，各种被死亡已经见怪不怪了，所以我会持一个怀疑的态度。但是经过多方确认之后，我才发现，这件事是真的。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="https://kingluo.me/blog/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Hexo和Github Pages构建个人博客</title>
+    <link href="https://kingluo.me/blog/2017/06/30/build-a-blog/"/>
+    <id>https://kingluo.me/blog/2017/06/30/build-a-blog/</id>
+    <published>2017-06-30T02:52:50.000Z</published>
+    <updated>2020-05-15T12:40:11.284Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;用Hexo + Github Pages搭建了个人博客，以此文记录一下步骤和其中遇到的坑。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="前端" scheme="https://kingluo.me/blog/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://kingluo.me/blog/2017/06/29/hello-world/"/>
+    <id>https://kingluo.me/blog/2017/06/29/hello-world/</id>
+    <published>2017-06-29T06:20:46.000Z</published>
+    <updated>2020-05-15T12:40:44.241Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Hello World!&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="碎碎念" scheme="https://kingluo.me/blog/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+    
+    <category term="随笔" scheme="https://kingluo.me/blog/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
